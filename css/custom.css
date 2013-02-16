@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+.equipment {
+    display: block;
+}
+
+.equipment img {
+    display: inline-block;
+    float: right;
+}
+
+.well img {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.page-header, .jumbotron {
+    font-size: 16px;
+}
+
+.well-sm img {
+    width: 95px;
+    height: 95px;
+    margin-left: 20px;   
+}
+
+.well-sm {
+    margin-bottom: 5px;
+}
+
+.inline {
+    display: inline;
+}
+
+.inner-container {
+    margin: 0 10px;
+    overflow: hidden;
+}
+
+.fill { 
+    min-height: 100%;
+    height: 100%;
+}
+
+.blue {
+    background-color: #0921A3;
+}
+
+.grey {
+    background-color: #e2e8e8;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.half {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.large-text {
+    font-size: 3em;
+}
+
+.navigate-menu {
+    font-size: 3em;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.disabled {
+    opacity: 0.5;
+}
+
+.shadow {
+    background-color: #e7e7e7;
+    
+}
